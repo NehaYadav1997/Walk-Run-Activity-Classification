@@ -4,7 +4,8 @@
 A machine learning project to classify human activity (walking vs running) using motion sensor data (accelerometer + gyroscope readings).
 
 ## 📂 Dataset
-- Source: [Run or Walk Reduced Dataset – Kaggle](https://www.kaggle.com/vmalyi/run-or-walk-reduced)
+- Source: - Source: Run or Walk Reduced Dataset (via Datamites Institute), 
+  originally from Kaggle by vmalyi
 - Records: Motion sensor readings from wrist-worn device
 - Features: acceleration_x/y/z, gyro_x/y/z, wrist, username
 
